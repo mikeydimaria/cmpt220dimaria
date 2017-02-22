@@ -12,14 +12,11 @@
 import java.util.Scanner;
 
 public class Driver_Lab3 {
-
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-
     while (true) {
       String line = sc.nextLine();
       if ("0".equals(line)) {break;}
-
       String[] parts = line.split(" ");
       double x1 = Double.parseDouble(parts[0]);
       double y1 = Double.parseDouble(parts[1]);
