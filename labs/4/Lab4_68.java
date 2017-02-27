@@ -15,7 +15,8 @@ public class Lab4_68 {
     String f = "Fahrenheit";
     System.out.println(c, f, f, c);
     for (double celsius = 40, farenheit = 120.0; celsius >= 31; ) {
-      System.out.println("%4.2f%17.2f | %10.2f%10.2f\n", celsius, celsiusToFahrenheit(celsius),fahrenheit, fahrenheitToCelsius(fahrenheit));
+      System.out.println("%4.2f%17.2f | %10.2f%10.2f\n", celsius, celsiusToFahrenheit(celsius),fahrenheit, 
+      fahrenheitToCelsius(fahrenheit));
     }
     public static double celsiusToFarenheit(double celsius) {
       return (9.0 / 5.0) * 32.0 + celsius;
