@@ -1,3 +1,14 @@
+/**
+   * file: TestRectangle.java
+   * author: Michael DiMaria
+   * course: CMPT 220
+   * assignment: Lab 6
+   * due date: April 18, 2017
+   * version: 1
+   * 
+   * This file contains the declaration of the 
+   * TestRectangle abstract data type.
+   */
 public class TestRectangle {
   public static void main(String[] args){
   TestRectangle rectangle1 = new TestRectangle();

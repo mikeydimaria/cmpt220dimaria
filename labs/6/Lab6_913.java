@@ -1,3 +1,15 @@
+/**
+   * file: Lab6_913.java
+   * author: Michael DiMaria
+   * course: CMPT 220
+   * assignment: Lab 5
+   * due date: March 28, 2017
+   * version: 1
+   * 
+   * This file contains the declaration of the 
+   * Lab6_913 abstract data type.
+   */
+import java.util.Scanner;
 public class Lab6_913 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);

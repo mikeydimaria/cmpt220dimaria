@@ -1,3 +1,14 @@
+/**
+   * file: Location.java
+   * author: Michael DiMaria
+   * course: CMPT 220
+   * assignment: Lab 6
+   * due date: April 18, 2017
+   * version: 1
+   * 
+   * This file contains the declaration of the 
+   * Location abstract data type.
+   */
 class Location {
   public static void main(String[] args) { 
 	int row;         	
