@@ -1,3 +1,14 @@
+/**
+   * file: Queue.java
+   * author: Michael DiMaria
+   * course: CMPT 220
+   * assignment: Lab 7
+   * due date: April 25, 2017
+   * version: 1
+   * 
+   * This file contains the declaration of the 
+   * Queue abstract data type.
+   */
 public class Queue {
   private int[] elements;
   private int size;

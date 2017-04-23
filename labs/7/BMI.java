@@ -1,3 +1,14 @@
+/**
+   * file: BMI.java
+   * author: Michael DiMaria
+   * course: CMPT 220
+   * assignment: Lab 7
+   * due date: April 25, 2017
+   * version: 1
+   * 
+   * This file contains the declaration of the 
+   * BMI abstract data type.
+   */
 public class BMI {
   private String name;
   private int age;
