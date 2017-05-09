@@ -1,0 +1,16 @@
+32 pts
+
+Project randomly assigns tickets. The idea has poor merit and is not original.
+
+However, there are some issues...
+Writeup:
+- There are typos in the document. -1pt
+
+- It does not follow the structure required. Abstract, Introduction, etc. -1pt
+
+Code:
+- Missing header. -1pt
+
+Overall:
+- The project is extremely easy. You can do a lot better than this. -5pts
+
